@@ -1,6 +1,8 @@
 # Recon_Axe
 
 Welcome to **Recon_Axe**, the ultimate tool for digital exploration and security analysis. Developed by @CyberBoy-Prakash, Recon_Axe is designed to automate the discovery of hidden digital paths, making cybersecurity analysis more accessible and effective.
+![image](https://github.com/CyberBoy-Prakash/Recon-Axe/assets/165967067/128b5c67-7e4a-4816-b6d5-1845013d791c)
+
 
 ## About Me
 
@@ -17,7 +19,6 @@ With Recon_Axe, you can effortlessly:
 - **Discover subdomains** of your target website.
 - **Collect related URLs** to gather more information.
 - **Identify open ports** and the services running on your target.
-![image](https://github.com/CyberBoy-Prakash/Recon-Axe/assets/165967067/6456eaa6-0223-4b8b-9693-27a0358512ea)
 
 
 ## Getting Started
