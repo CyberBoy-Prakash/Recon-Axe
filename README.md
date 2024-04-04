@@ -49,3 +49,32 @@ Start Recon_Axe by navigating to its directory and running:
 
 ```bash
 python3 Recon_axe.py 
+
+If you don't specify a target domain initially, the program will prompt you to enter one.
+
+## Menu Options
+
+Recon_Axe offers a simple menu with multiple options:
+
+- **Subdomain Discovery** - Uncover hidden subdomains of your target.
+- **URL Collection** - Gather URLs associated with your target domain.
+- **Port Scanning** - Scan for open ports and identify running services.
+- **Execute All Tasks** - Perform all of the above steps in one go.
+- **Exit** - Quit the program.
+
+Select an option by entering the corresponding number.
+
+## Upcoming Updates
+
+Stay tuned for these exciting features in the pipeline:
+
+- Enhanced scanning capabilities for broader discovery.
+- Increased speed for faster analysis results.
+- User experience improvements for an intuitive navigation.
+
+## Contributing
+
+Your contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repo and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+Let's make Recon_Axe even better, together!
+
