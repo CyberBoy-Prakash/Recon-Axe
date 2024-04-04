@@ -17,6 +17,8 @@ With Recon_Axe, you can effortlessly:
 - **Discover subdomains** of your target website.
 - **Collect related URLs** to gather more information.
 - **Identify open ports** and the services running on your target.
+![image](https://github.com/CyberBoy-Prakash/Recon-Axe/assets/165967067/6456eaa6-0223-4b8b-9693-27a0358512ea)
+
 
 ## Getting Started
 
