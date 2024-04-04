@@ -48,4 +48,4 @@ Ensure Python 3.x is installed on your machine.
 Start Recon_Axe by navigating to its directory and running:
 
 ```bash
-python3 main.py [optional: target_domain.com]
+python3 Recon_axe.py 
